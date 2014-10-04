@@ -2,8 +2,16 @@
 
 I followed the course [Mining Massive Datasets](https://class.coursera.org/mmds-001) by the University of Stanford.
 
-You'll find in this repository my exercices using iPython Notebook.
+You'll find in this repository my solutions to the different exercices.
 
-To install dependencices: `pip install -r requirement.txt``
+It has been written using iPython Notebook.
 
-Run the notebook with `ipython notebook`
+## See exercices and solutions online
+
+ - [Week 1](http://nbviewer.ipython.org/github/jameslafa/mining-massive-datasets/blob/master/Week%201.ipynb)
+
+## See exercices and solutions on your computer
+
+ 1. Clone repository
+ 2. Install dependencices (I recommend using a virtualenv): `pip install -r requirement.txt`
+ 3. Run python notebook: `ipython notebook`
