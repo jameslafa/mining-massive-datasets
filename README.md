@@ -9,6 +9,7 @@ It has been written using iPython Notebook.
 ## See exercices and solutions online
 
  - [Week 1](http://nbviewer.ipython.org/github/jameslafa/mining-massive-datasets/blob/master/Week%201.ipynb)
+ - [Week 2 - LSH](http://nbviewer.ipython.org/github/jameslafa/mining-massive-datasets/blob/master/Week%202%20-%20LSH.ipynb)
 
 ## See exercices and solutions on your computer
 
